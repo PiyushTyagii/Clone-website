@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Clone-website/static/css/main.4ab4b537.css",
+    "main.js": "/Clone-website/static/js/main.86119e98.js",
+    "static/js/453.ed3810f9.chunk.js": "/Clone-website/static/js/453.ed3810f9.chunk.js",
+    "static/media/asset-backgroundimage.jpg": "/Clone-website/static/media/asset-backgroundimage.1f7c45f44fb343f7f155.jpg",
+    "static/media/secondsectionvideo.m4v.m4v": "/Clone-website/static/media/secondsectionvideo.m4v.4c1a4787988d23b1039c.m4v",
+    "static/media/fifthsectionimage.png": "/Clone-website/static/media/fifthsectionimage.836efd88498e14ebed8e.png",
+    "static/media/fourthsectionimage.png": "/Clone-website/static/media/fourthsectionimage.ff81d825b399d890f9b4.png",
+    "static/media/fourthsectionvideo.m4v": "/Clone-website/static/media/fourthsectionvideo.81bb66955f7e9654e354.m4v",
+    "static/media/thirdimagephone.jpg": "/Clone-website/static/media/thirdimagephone.063578d5b6d5ab4155ec.jpg",
+    "static/media/downloadicon.gif": "/Clone-website/static/media/downloadicon.1ce72c891b52e6f68f2f.gif",
+    "static/media/loading.gif": "/Clone-website/static/media/loading.46cfb234293fc34fa861.gif",
+    "static/media/thirdsectionstrangerthingsimage.png": "/Clone-website/static/media/thirdsectionstrangerthingsimage.347f4ee3bafbdfe71112.png",
+    "static/media/tv.png": "/Clone-website/static/media/tv.0049bc70babc1f94cf88.png",
+    "static/media/logo.svg": "/Clone-website/static/media/logo.fcf6a7f6fdd93eaf4c83ba626dff2ae3.svg",
+    "static/media/languagelogo.svg": "/Clone-website/static/media/languagelogo.eec1b047a3540f4d189259e29d405ee9.svg",
+    "static/media/cross.svg": "/Clone-website/static/media/cross.238301b83efea42fe34aea6f2842a0d0.svg",
+    "index.html": "/Clone-website/index.html",
+    "static/media/getstartedarrow.svg": "/Clone-website/static/media/getstartedarrow.6ebd959a325ad1440214e4a88f28b525.svg",
+    "main.4ab4b537.css.map": "/Clone-website/static/css/main.4ab4b537.css.map",
+    "main.86119e98.js.map": "/Clone-website/static/js/main.86119e98.js.map",
+    "453.ed3810f9.chunk.js.map": "/Clone-website/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab4b537.css",
+    "static/js/main.86119e98.js"
+  ]
+}
