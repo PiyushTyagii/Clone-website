@@ -1404,6 +1404,7 @@ flex-direction: column;
   }
   .middle{
     padding: 0px 20px;
+    bottom:560px;
   }
   .join-today-class{
     font-size: 18px;
